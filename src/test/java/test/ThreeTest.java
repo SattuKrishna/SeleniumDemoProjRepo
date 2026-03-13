@@ -11,6 +11,7 @@ public class ThreeTest {
 		System.out.println("Test Three");
 		System.out.println("This code is commited by krishna");
 		System.out.println("This is the second code changed");
+		System.out.println("This is the third code changed");
 	}
 
 }
